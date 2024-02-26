@@ -16,7 +16,7 @@ TianTech está dirigido principalmente a personas entre 18 y 45 años interesada
 
 La tipografia utilizada es la siguiente:
 
-- **Open Sans**: 
+- **Open Sans**
 
 ## Paleta de Colores
 
